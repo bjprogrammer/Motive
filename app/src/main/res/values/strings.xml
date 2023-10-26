@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Motive</string>
+    <string name="str_search">Search</string>
+    <string name="search_cities">Search cities</string>
+</resources>
